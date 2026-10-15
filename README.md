@@ -43,3 +43,6 @@ stateDiagram-v2
 
 本アプリはGitHub Pages機能を利用して、ブラウザ上で実際にプレイしてランキングへスコアを登録することが可能です。
 * **[👉 シューティングゲームをプレイする](https://yabusan2-dot.github.io/shooting-game-firebase/)**
+
+## 📥 補足データ・検証用Excelシート
+* [シューティングゲームを題材にしたコード分析方法の解説シート (.xlsx)](./supplementary-materials/shooting_game.xlsx)
