@@ -1,4 +1,4 @@
-# 🚀 Firebase Linkage Shooting Game (Canvas & Backend リアルタイム連携)
+# 💥 シューティングゲーム (Canvas & Backend リアルタイム連携)
 
 本プロジェクトは、HTML5の **Canvas機能** を用いた軽量なグラフィックス描画制御と、バックエンドに **Firebase Realtime Database** を組み合わせた、リアルタイム・スコアランキング機能付きのシューティングゲームです。
 
